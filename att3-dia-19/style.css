@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 1380px;
+    height: 109vh;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    color: #030152;
+    font-size: 39pt;
+}
+
+input {
+    padding: 5px 0;
+    margin: 5px 0;
+}
+
+input:focus {
+    color: #020f58;
+}
+
+button {
+    padding: 5px 50px;
+    background-color: #18085f;
+    color: white;
+}
+
+button:hover {
+    background-color: #130468;
+    cursor: pointer;
+}
+
+p {
+    font-size: 25pt;
+}
+
+strong {
+    color: #031563;
+}
